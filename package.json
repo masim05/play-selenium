@@ -1,0 +1,22 @@
+{
+  "name": "play-selenium",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo 'No tests'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masim05/play-selenium.git"
+  },
+  "author": "Max Ryndin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masim05/play-selenium/issues"
+  },
+  "homepage": "https://github.com/masim05/play-selenium#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
